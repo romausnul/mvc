@@ -5,11 +5,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="#">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <title>Концепция  MVC</title>
+    <title>Все о серваках</title>
 </head>
 <body>
     <div class="container">
-        <h1>Концепция MVC</h1>
+        <h1>Сервера для чайников</h1>
         <a href="admin">Вход в админ-панель</a>
         <div>
         <?php foreach ($articles as $a): ?>
@@ -21,7 +21,7 @@
         <?php endforeach ?>
         </div>
         <footer>
-            <p>Концепция MVC<br>Copyright &copy; 2023</p>
+ 
         </footer>
     </div>
 </body>
